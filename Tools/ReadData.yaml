@@ -1,0 +1,5 @@
+# file_paths.yaml
+csv_files:
+    # 已支持中文路径填写,需保证本文件以UTF-8格式保存
+  - path: E:/PersonalFile/实验/TureZeroTorque/newFitting/newFitting3.csv
+    name: AutoFitting
